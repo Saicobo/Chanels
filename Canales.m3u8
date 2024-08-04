@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-
-#EXTINF:10.0, Canal 6
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
-#EXTINF:10.0, Canal 8
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-
-#EXT-X-ENDLIST
+https://raw.githubusercontent.com/Saicobo/Chanels/main/Canales.m3u8
