@@ -1,5 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Canal 6 HD
+https://d1vr8yxz55pucr.cloudfront.net/original.m3u8
+
 #EXTINF:-1,Canal 6
-https://cdn.getadjacent.com/static/players/octogone.mp4
-#EXTINF:-1,Canal 8
-https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=0udw5phOv4gfxRi28FQpdoBCrE1yWBx3&sid=r1B7m6GK36pRx5PnWy30f4fBBbg30VOu&pid=xj54FgzZ4KYydUY1EQKhReKOUIE6VvnS&an=screen&at=web-app&av=v6.0.59&ref=https%3A%2F%2Fwww.telediario.cr%2F&res=363x204&without_cookies=false&listenerid=&dnt=true
+https://d1vr8yxz55pucr.cloudfront.net/480p.m3u8
